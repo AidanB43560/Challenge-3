@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    font-style:oblique;
+    font-size: medium;
+
+}
+
+p {
+    color:red;
+    text-align: center;
+    font-style:italic;
+
+}
+img{
+    height: 25%;
+    width: 25%;
+}
+a{
+    font-style: italic;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
